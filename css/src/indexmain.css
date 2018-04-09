@@ -1304,7 +1304,7 @@
 }
 
 /* .go_btn */
-.go_btn{width: 250px; height: 50px; border-radius: 30px; border:3px solid #333;position: fixed; bottom: 190px; right: 50%; margin-right: -125px; }
+.go_btn{width: 250px; height: 50px; border-radius: 30px; border:3px solid #333;position: fixed; bottom: 130px; right: 50%; margin-right: -125px; }
 .go_btn>a{display: block; width: 100%; height: 100%; text-align: center; line-height: 50px; color: #333; font-size: 1.4rem;}
 .go_btn:hover>a{background-color: #333; color: #fff; border-radius: 30px;}
 
