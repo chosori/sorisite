@@ -669,7 +669,7 @@
   position: relative;
   overflow: hidden;
   left:50%;
-  margin-left: -163px;
+  margin-left: -135px;
   margin-top: 90px;
 
 }
@@ -1303,7 +1303,7 @@
 }
 
 /* .go_btn */
-.go_btn{width: 250px; height: 50px; border-radius: 30px; border:3px solid #333;position: fixed; bottom: 90px; right: 50%; margin-right: -125px; }
+.go_btn{width: 250px; height: 50px; border-radius: 30px; border:3px solid #333;position: fixed; bottom: 200px; right: 50%; margin-right: -125px; }
 .go_btn>a{display: block; width: 100%; height: 100%; text-align: center; line-height: 50px; color: #333; font-size: 1.4rem;}
 .go_btn:hover>a{background-color: #333; color: #fff; border-radius: 30px;}
 
